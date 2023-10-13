@@ -10,5 +10,7 @@ layouts of the UI.  Then selecting items in the left layout would then populate 
 
 Admittedly, the program could use some better documentation comments.
 
+Note: the code uses a loop on the dataframe.  Have since learned to use queries on the dataframe for faster performance
+
 
 ![1](https://user-images.githubusercontent.com/123666150/215215127-7daccda4-777b-482a-aab4-6123fcab41cf.PNG)
